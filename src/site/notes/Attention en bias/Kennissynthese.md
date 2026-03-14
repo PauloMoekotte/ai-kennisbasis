@@ -5,13 +5,13 @@
 # Kennissynthese – Attention en bias
 
 ## 1. Kerndefinitie van aandacht
-| Document                             | Definitie                                                                                             | Kernidee                                                                                                                       |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **A Brief Recap of Your Definition** | “Aandacht is meer dan focus; het is herkenning, het geven van bestaan en waarde‑toekenning.”          | Aandacht = **gate‑checking**‑proces dat stimuli een plek in ons mentale “ruimte‑van‑betekenis” geeft.                          |
-| **Aandacht als morele daad**         | “Aandacht is een morele daad: ze creëert, brengt aspecten in bestaan, maar laat  anderen verdwijnen.” | Aandacht wordt een **ethische keuze**; de *wie* en *hoe* bepalen welke realiteit ontstaat.                                     |
-| **Hoe aandacht … cogn. bias**        | Herhaalt dezelfde definitie en legt de nadruk op **herkenning + waarde‑toekenning**.                  | De definities van de drie documenten zijn semantisch equivalent; ze vormen de theoretische basis voor de rest van de synthese. |
+| Document                      | Definitie                                                                                             | Kernidee                                                                                                                       |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Je  definitie in het kort** | “Aandacht is meer dan focus; het is herkenning, het geven van bestaan en waarde‑toekenning.”          | Aandacht = **gate‑checking**‑proces dat stimuli een plek in ons mentale “ruimte‑van‑betekenis” geeft.                          |
+| **Aandacht als morele daad**  | “Aandacht is een morele daad: ze creëert, brengt aspecten in bestaan, maar laat  anderen verdwijnen.” | Aandacht wordt een **ethische keuze**; de *wie* en *hoe* bepalen welke realiteit ontstaat.                                     |
+| **Hoe aandacht … cogn. bias** | Herhaalt dezelfde definitie en legt de nadruk op **herkenning + waarde‑toekenning**.                  | De definities van de drie documenten zijn semantisch equivalent; ze vormen de theoretische basis voor de rest van de synthese. |
 
-**Conclusie:** Aandacht is geen neutrale filter, maar een waarderende, moreel geladen selectie die het bestaan van bepaalde informatie bevestigt en andere uitsluit.
+**Conclusie:** Aandacht is geen neutraal filter, maar een waarderende, moreel geladen selectie die het bestaan van bepaalde informatie bevestigt en op basis van het filter andere informatie uitsluit.
 
 ---
 
